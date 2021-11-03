@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6170c93ac3004d04f80002f3"
+  },
+  "nom": "MançourBillah",
+  "prenom": "Ayoub",
+  "login": "ayoub.greenboy@gmail.com",
+  "mdp": "Test_test06"
+},{
+  "_id": {
+    "$oid": "61742d25c3004d1d140039ba"
+  },
+  "nom": "Birouk",
+  "prenom": "Abdellah",
+  "login": "abdou.birouk@gmail.com",
+  "mdp": "Abdou_1998"
+},{
+  "_id": {
+    "$oid": "61742e8ec3004d1d140039bd"
+  },
+  "nom": "Faouzi",
+  "prenom": "Achour",
+  "login": "faouzi.achour@gmail.com",
+  "mdp": "Faouzi_1997"
+}]

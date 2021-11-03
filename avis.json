@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "61742c6dc3004d1d140039b7"
+  },
+  "nom": "MançourBillah",
+  "prenom": "Ayoub",
+  "email": "ayoub.greenboy@gmail.com",
+  "titre": "Neymar est blessé",
+  "sujet": "Neymar est encore blessé et sera forfait du match classico entre Marseille et Paris Saint Germain.",
+  "date": "samedi, 23 octobre 2021, 17:38:21",
+  "url": "url.php?titre2=Neymar est blessé",
+  "nblike": 10,
+  "dislike": 5
+},{
+  "_id": {
+    "$oid": "61742cafc3004d1d140039b8"
+  },
+  "nom": "MançourBillah",
+  "prenom": "Ayoub",
+  "email": "ayoub.greenboy@gmail.com",
+  "titre": "Karim Benzema passe en défense",
+  "sujet": "Pour ce dernier jour du procès de la sextape, les avocats de Benzema, Zenati et Zouaoui ont pu défendre la cause de leur client. Tous réclament la relaxe. Même si la possibilité d’un verdict donné dans la foulée existait, il sera finalement rendu le 24 novembre. Récit de cette ultime audience.",
+  "date": "samedi, 23 octobre 2021, 17:39:27",
+  "url": "url.php?titre2=Karim Benzema passe en défense",
+  "nblike": 2,
+  "dislike": 4
+},{
+  "_id": {
+    "$oid": "61742cdcc3004d1d140039b9"
+  },
+  "nom": "MançourBillah",
+  "prenom": "Ayoub",
+  "email": "ayoub.greenboy@gmail.com",
+  "titre": "Tir mortel sur un tournage d'Alec Baldwin",
+  "sujet": "L'acteur américain Alec Baldwin a actionné jeudi une arme à feu servant d'accessoire sur le tournage de \"Rust\", tuant la directrice de la photographie du film et blessant son réalisateur.",
+  "date": "samedi, 23 octobre 2021, 17:40:12",
+  "url": "url.php?titre2=Tir mortel sur un tournage d'Alec Baldwin",
+  "nblike": 2,
+  "dislike": 0,
+  "commentaire1": {
+    "Nom": "Birouk",
+    "Prenom": "Abdellah",
+    "commentaire": "C'est triste, je savais pas que les tournages se déroulent avec des vraies minutions !!!",
+    "date2": "Saturday, 23 October 2021, 17:42:33"
+  }
+},{
+  "_id": {
+    "$oid": "61742e00c3004d1d140039bb"
+  },
+  "nom": "Birouk",
+  "prenom": "Abdellah",
+  "email": "abdou.birouk@gmail.com",
+  "titre": "Elon Musk en passe de devenir le premier trillionnaire au monde",
+  "sujet": "Elon Musk, l’entrepreneur le plus célèbre du monde et le PDG de deux des plus grandes entreprises du monde, SpaceX et Tesla, est sur le point de devenir le premier trillionnaire du monde.\r\n\r\nSelon The Guardian, les analystes de Morgan Stanley ont prédit que Musk, 50 ans, pourrait devenir le premier trillionnaire du monde, en grande partie grâce à sa société aérospatiale SpaceX.",
+  "date": "samedi, 23 octobre 2021, 17:45:04",
+  "url": "url.php?titre2=Elon Musk en passe de devenir le premier trillionnaire au monde",
+  "nblike": 2,
+  "dislike": 0,
+  "commentaire1": {
+    "Nom": "Birouk",
+    "Prenom": "Abdellah",
+    "commentaire": "Je le savais depuis toujours, ce gars est un génie!!",
+    "date2": "samedi, 23 octobre 2021, 17:45:04"
+  }
+},{
+  "_id": {
+    "$oid": "61742eb4c3004d1d140039be"
+  },
+  "nom": "Faouzi",
+  "prenom": "Achour",
+  "email": "faouzi.achour@gmail.com",
+  "titre": "Chine: une loi votée pour réduire les devoirs des élèves à l'école",
+  "sujet": "La Chine a voté ce samedi une loi pour limiter les devoirs et les cours extra-scolaires, une initiative qui entend réduire la lourde pression qui pèse sur les élèves, a indiqué un média d'Etat.\r\n\r\nAu nom de la protection de la jeunesse, le gouvernement a édicté ces derniers mois plusieurs règles paternalistes visant à lutter contre les activités qu'il juge néfastes pour le développement de l'enfant.",
+  "date": "samedi, 23 octobre 2021, 17:48:04",
+  "url": "url.php?titre2=Chine: une loi votée pour réduire les devoirs des élèves à l'école",
+  "nblike": 2,
+  "dislike": 0
+}]
